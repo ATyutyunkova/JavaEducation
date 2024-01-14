@@ -1,7 +1,7 @@
 # JavaEducation
 Labs status:
 #### Lab 1 - done
-#### Lab 2 -
+#### Lab 2 - done
 #### Lab 3 -
 #### Lab 4 -
 #### Lab 5 -
@@ -9,5 +9,8 @@ Labs status:
 #### Lab 7 -
 #### Lab 8 -
 
-Timus:
-1293 - done
+Complited tasks from Timus:
+1. 1293
+2. 1001
+3. 1264
+4. 2012
