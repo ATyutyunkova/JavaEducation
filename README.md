@@ -1,6 +1,6 @@
 # JavaEducation
-Status:
-#### Lab 1 -
+Labs status:
+#### Lab 1 - done
 #### Lab 2 -
 #### Lab 3 -
 #### Lab 4 -
@@ -8,3 +8,6 @@ Status:
 #### Lab 6 -
 #### Lab 7 -
 #### Lab 8 -
+
+Timus:
+1293 - done
