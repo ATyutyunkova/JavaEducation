@@ -3,9 +3,9 @@ Labs status:
 #### Lab 1 - done
 #### Lab 2 - done
 #### Lab 3 - done
-#### Lab 4 -
-#### Lab 5 -
-#### Lab 6 -
+#### Lab 4 - done
+#### Lab 5 - done
+#### Lab 6 - done
 #### Lab 7 -
 
 Complited tasks from Timus:
