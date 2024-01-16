@@ -7,7 +7,6 @@ Labs status:
 #### Lab 5 -
 #### Lab 6 -
 #### Lab 7 -
-#### Lab 8 -
 
 Complited tasks from Timus:
 1. 1293
