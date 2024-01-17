@@ -6,7 +6,7 @@ Labs status:
 #### Lab 4 - done
 #### Lab 5 - done
 #### Lab 6 - done
-#### Lab 7 -
+#### Lab 7 - done
 
 Completed tasks from Timus:
 1. 1293
